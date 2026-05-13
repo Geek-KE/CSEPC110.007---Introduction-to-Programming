@@ -1,4 +1,6 @@
 For week 1, the assignment done was based on the instructions below: 
+
+
 W01 Project: Overview
 Mad Libs are a type of funny story, where a person is asked for words without knowing their context. The words are then placed into a story in a pre-determined format, often resulting in funny statements.
 
